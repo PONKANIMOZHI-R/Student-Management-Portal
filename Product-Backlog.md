@@ -19,4 +19,3 @@
 - The task is completed according to its acceptance criteria.
 - Changes are committed to GitHub.
 - Project documentation is updated when required.
--
