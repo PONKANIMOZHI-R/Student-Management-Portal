@@ -1,22 +1,21 @@
-# Product Backlog
 
-## Project: Student Management Portal
+Product Backlog
 
-### Priority 1: Project Setup
-Create the GitHub repository and establish
-the initial project structure.
+Project: Student Management Portal
 
-### Priority 2: Requirements
-Identify the main requirements of the project.
+ID| User Story / Task| Priority| Acceptance Criteria
+PB1| Set up the GitHub repository| High| Repository is created with a README file.
+PB2| Identify project requirements| High| Main project requirements are documented.
+PB3| Plan the project tasks| High| Tasks are listed and prioritized.
+PB4| Prepare Sprint 1 plan| High| Sprint goal and tasks are documented.
+PB5| Maintain version control| High| Changes are tracked through commits and branches.
+PB6| Design the Home page| Medium| The Home page displays the project title and navigation.
+PB7| Plan student registration| Medium| Required student details are identified.
+PB8| Plan course information| Medium| Course details to be displayed are identified.
+PB9| Plan the Contact page| Low| Contact information requirements are documented.
 
-### Priority 3: Task Planning
-Divide the project into smaller tasks.
+Definition of Done
 
-### Priority 4: Sprint Planning
-Prepare the plan for Sprint 1.
-
-### Priority 5: Version Control
-Track project changes using Git commits.
-
-### Priority 6: Branch Management
-Create and maintain a development branch.``
+- The task is completed according to its acceptance criteria.
+- Changes are committed to GitHub.
+- Project documentation is updated when required.
